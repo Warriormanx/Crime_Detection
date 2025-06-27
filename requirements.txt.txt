@@ -1,0 +1,6 @@
+Python 3.7+
+Tensorflow >= 2.x
+Scikit-learn
+OpenCV
+PyWavelets
+NumPy, Pandas, Matplotlib
