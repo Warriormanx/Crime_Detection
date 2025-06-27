@@ -1,0 +1,9 @@
+tensorflow>=2.0
+scikit-learn
+opencv-python
+pywavelets
+numpy
+pandas
+matplotlib
+jupyter
+notebook
