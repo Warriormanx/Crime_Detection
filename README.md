@@ -124,7 +124,7 @@ flowchart TD
 ## Check out on Docker also
 
 ```bash
-https://hub.docker.com/repository/docker/warriormanx/crime_detection/general
+https://hub.docker.com/r/warriormanx/crime_detection
 ```
 
 ---
