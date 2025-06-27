@@ -120,6 +120,8 @@ flowchart TD
     end
 
 ```
+
+---
        
 ## 🌱 Future Scope
 
